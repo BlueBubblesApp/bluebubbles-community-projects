@@ -1,10 +1,8 @@
 # BlueBubbles Community Projects 🚀
 
-Welcome to the official directory for community-led projects within the **BlueBubbles** ecosystem. This repository serves as a curated list of third-party applications, scripts, and tools that leverage the BlueBubbles Server API, Socket.IO streams, and our cross-platform architecture.
+Welcome to the official directory for community-led projects within the **BlueBubbles** ecosystem. This repository serves as a curated list of third-party applications, scripts, and tools that leverage apps in the BlueBubbles ecosystem.
 
 ## 🛠 Projects
-
-Alternative interfaces or platform-specific clients built using Flutter, web technologies, or native frameworks.
 
 | Project Name | Description | Author | Link |
 | :--- | :--- | :--- | :--- |
@@ -27,8 +25,6 @@ We welcome all contributions! To add your project to this list:
 1.  **Fork** this repository.
 2.  Add your project to the appropriate table in this `README.md`.
 3.  Submit a **Pull Request**. 
-
-*Note: Projects must be actively maintained and align with the security standards of the BlueBubbles Organization.*
 
 ## ⚖️ Disclaimer
 
