@@ -12,7 +12,7 @@ Alternative interfaces or platform-specific clients built using Flutter, web tec
 
 | Project Name | Description | Author | Link |
 | :--- | :--- | :--- | :--- |
-| **BlueBubbles ChatGPT Agent** | A ChatGPT agent that integrates with BlueBubbles (iMessage) and optional Google Calendar + other tools. Built with Spring Boot + OpenAPI. | @omega-bred | [Repo]([https://github.com/](https://github.com/omega-bred/bluebubbles-chatgpt-agent/)) |
+| **BlueBubbles ChatGPT Agent** | A ChatGPT agent that integrates with BlueBubbles (iMessage) and optional Google Calendar + other tools. Built with Spring Boot + OpenAPI. | @omega-bred | [Repo](https://github.com/omega-bred/bluebubbles-chatgpt-agent/) |
 
 ### ⚙️ Server Add-ons & Scripts
 
