@@ -13,6 +13,7 @@ Alternative interfaces or platform-specific clients built using Flutter, web tec
 | Project Name | Description | Author | Link |
 | :--- | :--- | :--- | :--- |
 | **BlueBubbles ChatGPT Agent** | A ChatGPT agent that integrates with BlueBubbles (iMessage) and optional Google Calendar + other tools. Built with Spring Boot + OpenAPI. | [@omega-bred](https://github.com/omega-bred) | [Repo](https://github.com/omega-bred/bluebubbles-chatgpt-agent/) |
+| **Clawdbot** | Clawdbot is a personal AI assistant you run on your own devices. It answers you on the channels you already use (WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, WebChat), plus extension channels like BlueBubbles, Matrix, Zalo, and Zalo Personal. It can speak and listen on macOS/iOS/Android, and can render a live Canvas you control. The Gateway is just the control plane — the product is the assistant. | [@clawdbot](https://github.com/clawdbot) | [Repo](https://github.com/clawdbot/clawdbot/) |
 
 ### ⚙️ Server Add-ons & Scripts
 
